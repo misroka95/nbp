@@ -11,11 +11,13 @@ As a result of the program, the user receives:
 - calculated standard deviation of sales rates for given data.
 
 Running the program with sample correct input data:
-java pl.parser.nbp.MainClass EUR 2013-01-28 2013-01-31
+	
+	java pl.parser.nbp.MainClass EUR 2013-01-28 2013-01-31
 
 The correct output for the above example call:
-4.1505
-0.0125
+	
+	4.1505
+	0.0125
 
 Description of input and output data:
 - EUR <=> currency code
